@@ -188,7 +188,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://hyperion147.github.io/vite-portfolio/",
+      source_code_link: "https://github.com/Hyperion147/vite-portfolio",
     },
     {
       name: "Ajivak",
